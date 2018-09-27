@@ -5932,3 +5932,11 @@ html.mobile .open-form-button .button-element .bg-layer {
   display: table;
   content: "";
   clear: both; }
+
+
+  span.slider-title{
+    color: #fff;
+    bottom: 0;
+    position: absolute;
+    font-size: 25px;
+  }
