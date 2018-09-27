@@ -5939,4 +5939,6 @@ html.mobile .open-form-button .button-element .bg-layer {
     bottom: 0;
     position: absolute;
     font-size: 25px;
+    width: 100%;
+    left: 0;
   }
